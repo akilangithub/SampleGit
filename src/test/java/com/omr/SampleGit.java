@@ -2,44 +2,30 @@ package com.omr;
 
 public class SampleGit {
 
-	private void method1() {
+	private void java() {
 
-		System.out.println("method1");
-
-	}
-
-	private void method2() {
-
-		System.out.println("method2");
+		System.out.println("Java");
 
 	}
 
-	private void method3() {
+	private void python() {
 
-		System.out.println("method3");
-
-	}
-
-	private void method4() {
-
-		System.out.println("method4");
+		System.out.println("Python");
 
 	}
 
-	private void method5() {
+	private void sql() {
 
-		System.out.println("method5");
+		System.out.println("SQL");
 
 	}
 
 	public static void main(String[] args) {
 
 		SampleGit git = new SampleGit();
-		git.method1();
-		git.method2();
-		git.method3();
-		git.method4();
-		git.method5();
+		git.java();
+		git.python();
+		git.sql();
 
 	}
 
