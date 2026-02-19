@@ -41,6 +41,10 @@ public class SampleGit {
 		System.out.println("sql");
 	}
 	
+	private void c2Sharp() {
+		System.out.println("c2sharp");
+	}
+	
 	
 
 	public static void main(String[] args) {
@@ -53,6 +57,7 @@ public class SampleGit {
 		git.method5();
 		git.python();
 		git.sql();
+		git.c2Sharp();
 
 	}
 
