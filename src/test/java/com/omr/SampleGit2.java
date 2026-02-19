@@ -27,6 +27,11 @@ public class SampleGit2 {
 		System.out.println("selenium");
 
 	}
+	private void javaScript() {
+		System.out.println("javascript");
+
+
+	}
 
 	public static void main(String[] args) {
 
@@ -36,5 +41,6 @@ public class SampleGit2 {
 		git2.method31();
 		git2.java();
 		git2.selenium();
+		git2.javaScript();
 	}
 }
