@@ -19,6 +19,14 @@ public class SampleGit2 {
 		System.out.println("method3");
 
 	}
+	private void java() {
+		System.out.println("java");
+
+	}
+	private void selenium() {
+		System.out.println("selenium");
+
+	}
 
 	public static void main(String[] args) {
 
@@ -26,5 +34,7 @@ public class SampleGit2 {
 		git2.method11();
 		git2.method21();
 		git2.method31();
+		git2.java();
+		git2.selenium();
 	}
 }

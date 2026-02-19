@@ -31,6 +31,17 @@ public class SampleGit {
 		System.out.println("method5");
 
 	}
+	private void python() {
+	
+		System.out.println("python");
+
+	}
+	
+	private void sql() {
+		System.out.println("sql");
+	}
+	
+	
 
 	public static void main(String[] args) {
 
@@ -40,6 +51,8 @@ public class SampleGit {
 		git.method3();
 		git.method4();
 		git.method5();
+		git.python();
+		git.sql();
 
 	}
 
